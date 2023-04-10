@@ -20,6 +20,6 @@ The hundred-factor is probably overkill in favor of caution as an initial value 
 
 Flasks can drop from any source that would drop potions (more specifically the unit types `POTION`, `HEALTHPOTION` and `MANAPOTION`, directly or indirectly) so even though they are rare you are almost guaranteed to find a couple flasks along the way. It is much easier (but not guaranteed) to find them from vendors but their price is quite high - this is intentional, both as a form of gold sink and chase item, as Torchlight II leveling can do with more  of both.
 
-Vanilla mana potions are rarer than health potions but both types of flasks are equally rare so as not to make mana flasks even more rare than currently.
+Vanilla mana potions are rarer than health potions but both types of flasks are equally rare so as not to make mana flasks even more rare than they already are.
 
-There are many issues with adding such an item, including engine limitations and assumptions; and mod compatibility, which is extremely important. Other designs were considered, tested and dropped in favor of the current implementation which I think balances the functional and non-functional needs very well.
+There are many issues with adding such items, including engine limitations and assumptions; and mod compatibility, which is extremely important. Other designs were considered, tested and dropped in favor of the current implementation - which I think balances both functional and non-functional needs well.
