@@ -6,7 +6,7 @@ Part of the [Torchlite II](https://steamcommunity.com/sharedfiles/filedetails/?i
 
 ## Installing
 
-**Steam workshop**: press the *subscribe* button in [the workshop page]() and enable the mod via the game launcher.
+**Steam workshop**: press the *subscribe* button in [the workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=2960700990) and enable the mod via the game launcher.
 
 **Manual**: download the latest version of the mod file from [the GitHub release page](https://github.com/tukkek/torchlight2-flasks/releases) and place it on your Torchlight 2 mod folder. If you're unsure the exact folder location, use the *Open mods folder* button on the official Mod Launcher tool. If necessary, check [this video](https://www.youtube.com/watch?v=e5KeocjLUiA) for step-by-step instructions.
 
