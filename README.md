@@ -1,5 +1,7 @@
 # Flasks for Torchlight II
 
+![preview](https://github.com/tukkek/torchlight2-flasks/blob/main/preview.jpeg?raw=true)
+
 This mod adds permanent (non-consumable) health and mana flasks that can be used indefinitely. They work exactly like potions but more expensive and rare.
 
 Part of the [Torchlite II](https://steamcommunity.com/sharedfiles/filedetails/?id=2553012355) roguelite pack.
